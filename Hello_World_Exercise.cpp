@@ -5,7 +5,7 @@
 //Instructions: Place the [#] and [<>] signs where they go. 
 
 //Header File Library
-include iostream
+#include <iostream>
 
 //Main Function
 int main()
@@ -22,7 +22,7 @@ int main()
 #include <iostream>
 
 //Main Function
-main()
+int main()
 {
   std::cout << "Hello World!";
   return 0;
@@ -35,33 +35,36 @@ main()
 //Header File Library
 #include <iostream>
 
-//
+// Main Function
 int main()
 {
-  std::cout << 'Hello World'
+  std::cout << "Hello World!";
   return 0;
 }
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 //Exercise 4:
 //Instructions: This code is missing comments, Header File Library, an Object, Output and return integer. Please correct the Code.
 
-//
-#include <>
+//Header File Library
+#include <iostream>
 
-//
+// Main function
 int main()
 {
-  std::  << "";
-  return ;
+  std::count << "Hello World!";
+  return 0;
 }
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 //Exercise 5:
 //Instructions: Write the code and use endl to flush the ouput buffer and start a new line.
   
 //Header File Library
-  
+#include <iostream>
 //Main Function
-  
+in main() {
+  std::count << "Hello World!";
+  return 0;
+}
   
   
   
